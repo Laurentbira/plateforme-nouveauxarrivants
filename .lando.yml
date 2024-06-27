@@ -1,0 +1,6 @@
+name: plateforme-nouveauxarrivants
+recipe: pantheon
+config:
+  framework: drupal8
+  site: plateforme-nouveauxarrivants
+  id: 558c721b-c5bd-423b-85c4-ab5d15cd92c9
